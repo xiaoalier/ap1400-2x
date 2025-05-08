@@ -1,0 +1,3 @@
+/home/myt/桌面/ap1400-2x/AP1400-2-HW1/build/CMakeFiles/main.dir
+/home/myt/桌面/ap1400-2x/AP1400-2-HW1/build/CMakeFiles/edit_cache.dir
+/home/myt/桌面/ap1400-2x/AP1400-2-HW1/build/CMakeFiles/rebuild_cache.dir
